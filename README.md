@@ -62,12 +62,3 @@ This project is intended for educational, research, and prototyping purposes. Fr
 
 ---
 
-## 👨‍💻 Contributors
-
-- Naveed Buhari
-- Krithik Sathya
-- Aasish M.
-- Fabrizio J.
-- Guided by Dr. Prabavathy Balasundaram
-
-Department of Computer Science and Engineering, SSN College of Engineering, Chennai, India.
